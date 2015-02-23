@@ -4,6 +4,6 @@
  */
 package tester;
 
-public class Dictionary {
+public interface Dictionary {
     
 }
